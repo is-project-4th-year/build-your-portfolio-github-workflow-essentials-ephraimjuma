@@ -27,7 +27,7 @@ List at least **four key concepts or skills** you learned during the Git crash c
 - Screenshot showing your milestone(s) and the issues linked to it.
 
 ![Milestones](milestones.png) 
-- This image shows the milestones i have for my project
+- This image shows the milestones I have for my project.
 
 ![Issues](issues.png)
 - This image shows the issues i have in my project. They are connected to specific milestones
